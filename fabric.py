@@ -121,3 +121,5 @@ class HardLevel(AbstractLevel):
                             coord = (random.randint(1, 8), random.randint(1, 8))
                 self.objects.append((obj_name, coord))
             return self.objects
+        
+# изменение в файле fabric.py для отражения изменений в git. Это ветка DEV  

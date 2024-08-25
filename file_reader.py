@@ -18,3 +18,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+-
+# внесение изменений в файл file_reader.py для учета изменений в  git. это ветка DEVs    
